@@ -44,6 +44,7 @@ int main(){
 	push(5);
 	push(4);
 	push(8);
+	pop();
 	isEmpty();
 	isFull();
 	display();

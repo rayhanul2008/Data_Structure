@@ -1,5 +1,1 @@
-Stack is Not Empty
-Stack is Not Full
 8
-4
-5
