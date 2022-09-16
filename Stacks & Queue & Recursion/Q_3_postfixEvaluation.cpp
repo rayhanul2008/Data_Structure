@@ -18,10 +18,9 @@ double calculator(double a, double b, char ch){
 }
 double postfixEvaluation(string s){
 	char ch;
-	int i;
 	double num, value;
 	stack <double> stk;
-	for(i = 0; i < s[i]; i++){
+	for(int i = 0; i < s[i]; i++){
 		//cout << s[i] << " ";
 		ch = s[i];
 		if(ch == ',' || ch == ' ' ) continue;
