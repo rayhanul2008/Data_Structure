@@ -1,2 +1,1 @@
-Infix To Postfix : 
-A,180.5,C,*,D,E,F,^,/,G,*,-,2.0,*,+
+Enter The Value Of a : 36
