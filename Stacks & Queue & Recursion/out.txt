@@ -1,16 +1,6 @@
-Enter The Number Of Disk : 4
-Disks 1 Moved From A to B
-Disks 2 Moved From A to C
-Disks 1 Moved From B to C
-Disks 3 Moved From A to B
-Disks 1 Moved From C to A
-Disks 2 Moved From C to B
-Disks 1 Moved From A to B
-Disks 4 Moved From A to C
-Disks 1 Moved From B to C
-Disks 2 Moved From B to A
-Disks 1 Moved From C to A
-Disks 3 Moved From B to C
-Disks 1 Moved From A to B
-Disks 2 Moved From A to C
-Disks 1 Moved From B to C
+1) Insert element to queue
+2) Delete element to queue
+3) Display all the element of queue
+4) Exit
+Enter your choice : 
+Invalid choice
