@@ -1,2 +1,16 @@
-fibonacci Sequence in 15tm : 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 
-15th fibonacci number : 610
+Enter The Number Of Disk : 4
+Disks 1 Moved From A to B
+Disks 2 Moved From A to C
+Disks 1 Moved From B to C
+Disks 3 Moved From A to B
+Disks 1 Moved From C to A
+Disks 2 Moved From C to B
+Disks 1 Moved From A to B
+Disks 4 Moved From A to C
+Disks 1 Moved From B to C
+Disks 2 Moved From B to A
+Disks 1 Moved From C to A
+Disks 3 Moved From B to C
+Disks 1 Moved From A to B
+Disks 2 Moved From A to C
+Disks 1 Moved From B to C
