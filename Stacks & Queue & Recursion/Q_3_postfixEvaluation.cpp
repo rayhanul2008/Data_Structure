@@ -4,17 +4,17 @@ using namespace std;
 double calculator(double a, double b, char ch){
 	 switch(ch){
 		case '+':
-			return a+b;
+			return b+a;
 		case '-':
-			return a-b;
+			return b-a;
 		case '*':
-			return a*b;
+			return b*a;
 		case '/':
-			return a/b;
+			return b/a;
 		case '^':
-			return pow(a,b);
+			return pow(b,a);
 	}
-	//return 0;
+	return 0;
 }
 double postfixEvaluation(string s){
 	char ch;
