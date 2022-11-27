@@ -32,7 +32,7 @@ void sortLinkedList(){
 			while(temp != NULL){
 				if(curr -> data > temp -> data){
 					k = curr -> data;
-					curr -> data = temp -> data;
+					curr -> data = temp -> data; 		// swap(curr-> data, temp-> data);
 					temp -> data = k;
 				}
 				temp = temp -> next;
