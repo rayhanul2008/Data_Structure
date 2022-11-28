@@ -34,11 +34,9 @@ int main(){
 	for(int i = 2; i <= node; i++){
 		for(int j = 1; j <= node; j++){
 			for(int k = 1; k <= node; k++){
-				int temp = 0;
 				for(int l = 1; l <= node; l++){
-					temp += powadjM[i-1][j][l]*adjM[l][k];
+					powadjM[i][j][k] += powadjM[i-1][j][l]*adjM[l][k];
 				}
-				powadjM[i][j][k] = temp;
 			}
 		}
 	}
