@@ -24,7 +24,7 @@ void isEmpty(){
 	}else{
 		cout << "Stack is Not Empty" << endl;
 	}
-}
+}typedef int MyCustomType;
 void isFull(){
 	if(top == SIZE-1){
 		cout << "Stack is Full!" << endl;
